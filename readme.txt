@@ -10,10 +10,14 @@ clock will definitely know about it and play those mp3s to
 wake you up in the morning. Or at whatever time of day you
 want to wake up. Disclaimer: this is a bad idea.
 
-Materials: Revision B Raspberry Pi Wifi adaptor or ethernet
-connection for RPi Adafruit 16x2 RGB LCD display +
-potentiometer 1 latching button or switch 2 momentary
-buttons or switches Throwaway gmail account
+Materials: 
+
+1. Revision B Raspberry Pi
+2. Wifi adaptor or ethernet connection for RPi
+3. Adafruit 16x2 RGB LCD display + potentiometer
+4. One latching button or switch
+5. Two momentary buttons or switches
+6. Throwaway gmail account
 
 Setup: 
 
